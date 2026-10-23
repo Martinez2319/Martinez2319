@@ -7,6 +7,7 @@ Este índice agrupa mis repositorios por tema para facilitar la exploración y e
 | Repositorio | Contenido |
 | --- | --- |
 | [DaniShell](https://github.com/Martinez2319/DaniShell_V1) | Versión principal 4.1.0 en .NET 8, con CMD y PowerShell nativos, tuberías en streaming, plugins y 41 pruebas automatizadas. |
+| [DaniOrganizer](https://github.com/Martinez2319/DaniOrganizer) | Aplicación de escritorio para organizar archivos, detectar duplicados y deshacer movimientos. |
 | [save-image-as](https://github.com/Martinez2319/save-image-as) | Extensión de Firefox para imágenes y medios. |
 | [RealmDatabaseManager](https://github.com/Martinez2319/RealmDatabaseManager) | Aplicación Android con Kotlin, Compose y Realm. |
 
