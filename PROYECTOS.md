@@ -6,8 +6,7 @@ Este índice agrupa mis repositorios por tema para facilitar la exploración y e
 
 | Repositorio | Contenido |
 | --- | --- |
-| [DaniShell](https://github.com/Martinez2319/DaniShell) | Terminal en C# con destino .NET 7. |
-| [DaniShell_V1](https://github.com/Martinez2319/DaniShell_V1) | Variante de DaniShell con destino .NET 8. |
+| [DaniShell](https://github.com/Martinez2319/DaniShell_V1) | Versión principal 4.0.1 en .NET 8, con tuberías, plugins y pruebas automatizadas. |
 | [save-image-as](https://github.com/Martinez2319/save-image-as) | Extensión de Firefox para imágenes y medios. |
 | [RealmDatabaseManager](https://github.com/Martinez2319/RealmDatabaseManager) | Aplicación Android con Kotlin, Compose y Realm. |
 
