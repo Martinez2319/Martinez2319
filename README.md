@@ -10,7 +10,7 @@ Me interesan la automatización, las herramientas de escritorio, el desarrollo w
 
 | Tema | Proyecto | Qué encontrarás |
 | --- | --- | --- |
-| Herramientas | [DaniShell](https://github.com/Martinez2319/DaniShell_V1) | Terminal en C# y .NET 8, con tuberías, filtros y pruebas automatizadas. |
+| Herramientas | [DaniShell](https://github.com/Martinez2319/DaniShell_V1) | Terminal personalizada en C# y .NET 8, con CMD y PowerShell, temas, plugins y pruebas automatizadas. |
 | Navegador | [Save image as](https://github.com/Martinez2319/save-image-as) | Extensión de Firefox para guardar y convertir imágenes. |
 | Aplicaciones web | [Biblioteca Virtual con Django](https://github.com/Martinez2319/Biblioteca_dijango) | Lectura digital, API y persistencia con MongoDB. |
 | Android | [RealmDatabaseManager](https://github.com/Martinez2319/RealmDatabaseManager) | Práctica de gestión de datos con Kotlin y Realm. |
