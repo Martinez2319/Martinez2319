@@ -1,6 +1,6 @@
 # Catálogo de proyectos públicos
 
-Este índice agrupa mis repositorios por tema para facilitar la exploración y el aprendizaje. Las versiones de una misma idea se conservan por separado; su nombre no implica que una sustituya a otra.
+Este índice agrupa mis repositorios por tema para facilitar la exploración y el aprendizaje. La biblioteca digital se mantiene en un único repositorio principal.
 
 ## Herramientas y aplicaciones
 
@@ -11,14 +11,10 @@ Este índice agrupa mis repositorios por tema para facilitar la exploración y e
 | [save-image-as](https://github.com/Martinez2319/save-image-as) | Extensión de Firefox para imágenes y medios. |
 | [RealmDatabaseManager](https://github.com/Martinez2319/RealmDatabaseManager) | Aplicación Android con Kotlin, Compose y Realm. |
 
-## Bibliotecas digitales
+## Biblioteca digital
 
 | Repositorio | Contenido |
 | --- | --- |
-| [Biblioteca](https://github.com/Martinez2319/Biblioteca) | Implementación con FastAPI, React y MongoDB. |
-| [Biblioteca-Digital](https://github.com/Martinez2319/Biblioteca-Digital) | Implementación con Express, sesiones y MongoDB. |
-| [biblioteca-virtual](https://github.com/Martinez2319/biblioteca-virtual) | Variante Node.js con catálogo y servicios auxiliares. |
-| [bibliotecaVirtual](https://github.com/Martinez2319/bibliotecaVirtual) | Otra implementación Node.js con documentación propia. |
 | [Biblioteca_dijango](https://github.com/Martinez2319/Biblioteca_dijango) | Implementación con Django, API y MongoDB. |
 
 ## Prácticas de Python y DevOps
