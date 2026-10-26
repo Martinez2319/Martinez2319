@@ -6,6 +6,14 @@ Estudiante de Ingeniería en Desarrollo de Software en la Universidad Tecnológi
 
 Me interesan la automatización, las herramientas de escritorio, el desarrollo web y DevOps. También tengo experiencia en pruebas de servidores, diagnóstico técnico y análisis de logs.
 
+## Repositorios por categoría
+
+| Escuela | Trabajo | Personal |
+| --- | --- | --- |
+| [Ver prácticas y proyectos escolares](https://github.com/search?q=user%3AMartinez2319+topic%3Aescuela&type=repositories) | [Ver proyectos de trabajo](https://github.com/search?q=user%3AMartinez2319+topic%3Atrabajo&type=repositories) | [Ver proyectos personales](https://github.com/search?q=user%3AMartinez2319+topic%3Apersonal&type=repositories) |
+
+Uso las etiquetas `escuela`, `trabajo` y `personal` para agrupar mis repositorios. Cada enlace muestra los proyectos a los que tienes acceso en GitHub.
+
 ## Explora mis proyectos
 
 | Tema | Proyecto | Qué encontrarás |
